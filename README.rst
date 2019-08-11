@@ -53,3 +53,15 @@ Gravity Falls is a good TV show. You can e-mail me a rebuttal, if you want. Eith
 this far.
 
 ...not that I want you to read this any further...BAKA! \*runs\*
+
+automatepracticeprojects
+------------------------
+
+`automatepracticeprojects`_ is one of the resources from `python-tutorials`_ that got its own repo. Example implementations 
+of the practice projects in `Automate the Boring Stuff with Python`_. It showcases basic Python conventions like pip 
+requirements files, Google-style docstrings. 
+
+Honestly, the version in the `python-tutorials`_ repo's 
+`Docs <https://josealermaiii.github.io/python-tutorials/books/automate/automate.html>`_ is better.
+
+.. _Automate the Boring Stuff with Python: https://automatetheboringstuff.com/
