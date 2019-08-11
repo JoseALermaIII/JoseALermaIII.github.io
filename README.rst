@@ -14,13 +14,13 @@ A sort of appendix to my main website: `JoseALerma.com`_
 clashcallerbot-reddit
 ---------------------
 
-`ClashCallerBot`_ was made to help `/r/ClashOfClans <https://np.reddit.com/r/ClashOfClans>`_ clans coordinate attacks
-during `Clan Wars <https://clashofclans.fandom.com/wiki/Clan_Wars>`_ (or `Clan War Leagues
+`ClashCallerBot`_ helps `/r/ClashOfClans <https://np.reddit.com/r/ClashOfClans>`_ clans coordinate attacks during 
+`Clan Wars <https://clashofclans.fandom.com/wiki/Clan_Wars>`_ (or `Clan War Leagues
 <https://clashofclans.fandom.com/wiki/Clan_War_Leagues>`_) from within reddit.
 
-It uses Python and PRAW to read incoming comments from reddit, scan them for a particular string, comments a confirmation receipt,
-saves pieces of that string to a MySQL or MariaDB database along with a caluclated reminder time, then checks the reminder time
-from the database and PMs a reminder to the user.
+It uses Python and PRAW to read incoming comments from reddit, scan them for a particular string, comment a confirmation receipt,
+save pieces of the comment to a MySQL or MariaDB database along with a calculated reminder time, check the reminder time
+from the database, and PM a reminder to the user if the reminder time passed.
 
 The `Docs <https://josealermaiii.github.io/clashcallerbot-reddit/>`_ offer more details about usage, installation, and frequently
 asked questions.
