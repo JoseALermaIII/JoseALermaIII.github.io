@@ -65,7 +65,7 @@ of the practice projects in `Automate the Boring Stuff with Python`_. It showcas
 requirements files and Google-style docstrings. 
 
 Honestly, the version in the `python-tutorials`_ repo's 
-`Docs <https://josealermaiii.github.io/python-tutorials/books/automate/automate.html>`_ is better.
+`Docs <https://josealermaiii.github.io/python-tutorials/AutomateTheBoringStuff.html>`_ is better.
 
 .. _Automate the Boring Stuff with Python: https://automatetheboringstuff.com/
 
