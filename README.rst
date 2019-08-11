@@ -57,9 +57,9 @@ this far.
 automatepracticeprojects
 ------------------------
 
-`automatepracticeprojects`_ is one of the resources from `python-tutorials`_ that got its own repo. Example implementations 
+`automatepracticeprojects`_ is one of the resources from `python-tutorials`_ that got its own repo. They're example implementations 
 of the practice projects in `Automate the Boring Stuff with Python`_. It showcases basic Python conventions like pip 
-requirements files, Google-style docstrings. 
+requirements files and Google-style docstrings. 
 
 Honestly, the version in the `python-tutorials`_ repo's 
 `Docs <https://josealermaiii.github.io/python-tutorials/books/automate/automate.html>`_ is better.
