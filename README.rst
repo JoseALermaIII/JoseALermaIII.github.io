@@ -41,6 +41,9 @@ online courses.
 This repo became very nested very quickly, so newer resource materials I use have their own repo (keep reading to see more).
 For more information about this repo, check out the `Docs <https://josealermaiii.github.io/python-tutorials/>`_.
 
+The `Docs <https://josealermaiii.github.io/python-tutorials/getting_started/installation.html>`_ also include information 
+about configuring a Python environment/IDE.
+
 .. _python-tutorials: https://github.com/JoseALermaIII/python-tutorials
 
 If you're reading this, mention "Gravity Falls"
