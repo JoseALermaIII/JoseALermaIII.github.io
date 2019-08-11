@@ -42,3 +42,14 @@ This repo became very nested very quickly, so newer resource materials I use hav
 For more information about this repo, check out the `Docs <https://josealermaiii.github.io/python-tutorials/>`_.
 
 .. _python-tutorials: https://github.com/JoseALermaIII/python-tutorials
+
+If you're reading this, mention "Gravity Falls"
+-----------------------------------------------
+
+It's been about 4 years, but I'm actually starting to get random e-mails from people that scrape GitHub. So far, they're 
+super-generic, "I'm _____ from github.com"
+
+Gravity Falls is a good TV show. You can e-mail me a rebuttal, if you want. Either way, it'll show you've at least read 
+this far.
+
+...not that I want you to read this any further...BAKA! \*runs\*
