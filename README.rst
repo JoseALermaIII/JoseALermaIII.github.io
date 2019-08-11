@@ -68,3 +68,26 @@ Honestly, the version in the `python-tutorials`_ repo's
 `Docs <https://josealermaiii.github.io/python-tutorials/books/automate/automate.html>`_ is better.
 
 .. _Automate the Boring Stuff with Python: https://automatetheboringstuff.com/
+
+impracticalpythonprojects
+-------------------------
+
+Saved the best (so far) for last! `impracticalpythonprojects`_ is the first resource that got its own repo. They're example
+implementations of the practice and challenge projects in `Impractical Python Projects`_.
+
+The practice and challenge projects are *truly* impractical, but they teach useful data analysis and processing techniques.
+
+The repo showcases more intermediate Python conventions and modules like:
+
+* extensive testing with ``unittest``, ``tox``, and `Travis-CI`_.
+* 100% `code coverage`_ with ``coverage`` and ``coveralls``.
+* linting with ``pylint`` and ``pydocstyle``.
+* `documentation`_ with ``sphinx``.
+
+and the usual Google-style docstrings, pip requirements files, and main functions.
+
+.. _impracticalpythonprojects: https://github.com/JoseALermaIII/impracticalpythonprojects
+.. _Impractical Python Projects: https://nostarch.com/impracticalpythonprojects
+.. _Travis-CI: https://travis-ci.com/JoseALermaIII/impracticalpythonprojects
+.. _code coverage: https://coveralls.io/github/JoseALermaIII/impracticalpythonprojects?branch=master
+.. _documentation: https://josealermaiii.github.io/impracticalpythonprojects/
