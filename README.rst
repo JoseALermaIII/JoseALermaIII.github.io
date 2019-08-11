@@ -31,3 +31,14 @@ Think of **ClashCallerBot** as an independent time keeper that runs entirely wit
 Check us out on `/r/ClashCallerBot <https://np.reddit.com/r/ClashCallerBot/>`_.
 
 .. _ClashCallerBot: https://github.com/JoseALermaIII/clashcallerbot-reddit
+
+python-tutorials
+----------------
+
+`python-tutorials`_ is a collection of resources to learn the Python programming language. Resources include books and
+online courses.
+
+This repo became very nested very quickly, so newer resource materials I use have their own repo (keep reading to see more).
+For more information about this repo, check out the `Docs <https://josealermaiii.github.io/python-tutorials/>`_.
+
+.. _python-tutorials: https://github.com/JoseALermaIII/python-tutorials
