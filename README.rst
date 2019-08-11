@@ -72,7 +72,9 @@ Honestly, the version in the `python-tutorials`_ repo's
 impracticalpythonprojects
 -------------------------
 
-Saved the best (so far) for last! `impracticalpythonprojects`_ is the first resource that got its own repo. They're example
+Saved the best (so far) for last!
+
+`impracticalpythonprojects`_ is the first resource that got its own repo. They're example
 implementations of the practice and challenge projects in `Impractical Python Projects`_.
 
 The practice and challenge projects are *truly* impractical, but they teach useful data analysis and processing techniques.
