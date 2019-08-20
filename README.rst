@@ -37,18 +37,17 @@ and the usual Google-style docstrings, pip requirements files, and main function
 clashcallerbot-reddit
 ---------------------
 
-`ClashCallerBot`_ helps `/r/ClashOfClans <https://np.reddit.com/r/ClashOfClans>`_ clans coordinate attacks during 
+`ClashCaller Bot`_ helps `/r/ClashOfClans <https://np.reddit.com/r/ClashOfClans>`_ clans coordinate attacks during
 `Clan Wars <https://clashofclans.fandom.com/wiki/Clan_Wars>`_ (or `Clan War Leagues
 <https://clashofclans.fandom.com/wiki/Clan_War_Leagues>`_) from within reddit.
 
-It uses Python and PRAW to read incoming comments from reddit, scan them for a particular string, comment a confirmation receipt,
-save pieces of the comment to a MySQL or MariaDB database along with a calculated reminder time, check the reminder time
-from the database, and PM a reminder to the user if the reminder time passed.
+It uses Python and the PRAW libraries to interface with the reddit API to scan comments for a string, save parts of
+the string to a MySQL/MariaDB database, then automatically send replies via PM and comment.
 
-The `Docs <https://josealermaiii.github.io/clashcallerbot-reddit/>`_ offer more details about usage, installation, and frequently
-asked questions.
+The `Docs <https://josealermaiii.github.io/clashcallerbot-reddit/>`_ offer more details about usage, installation, and
+frequently asked questions.
 
-.. _ClashCallerBot: https://github.com/JoseALermaIII/clashcallerbot-reddit
+.. _ClashCaller Bot: https://github.com/JoseALermaIII/clashcallerbot-reddit
 
 If you're reading this, mention "Gravity Falls"
 -----------------------------------------------
