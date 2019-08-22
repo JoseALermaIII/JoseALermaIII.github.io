@@ -58,6 +58,10 @@ super-generic, "I'm _____ from github.com"
 Gravity Falls is a good TV show. You can e-mail me a rebuttal, if you want. Either way, it'll show you've at least read 
 this far.
 
+I like to think of it as a simple implementation of a `CAPTCHA`_: not necessary, but I'll question reality without it.
+
+.. _CAPTCHA: https://en.wikipedia.org/wiki/CAPTCHA
+
 python-tutorials
 ----------------
 
