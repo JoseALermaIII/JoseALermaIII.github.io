@@ -64,7 +64,7 @@ python-tutorials
 `python-tutorials`_ is a collection of resources to learn the Python programming language. Resources include books and
 online courses.
 
-This repo became very nested very quickly, so newer resource materials I use have their own repo (like impracticalpythonprojects).
+This repo became very nested very quickly, so newer resource materials I use have their own repo (like `impracticalpythonprojects`_).
 For more information about this repo, check out the `Docs <https://josealermaiii.github.io/python-tutorials/>`_.
 
 The `Docs <https://josealermaiii.github.io/python-tutorials/getting_started/installation.html>`_ also include information
